@@ -1,5 +1,5 @@
 {
-  "students": [
+  "posts": [
     {
       "id": 1,
       "name": "Alex",
@@ -200,5 +200,5 @@
 	  "status":"Absent"
     }
   ],
-  "totalPresent":2
+  "totalPresent":[2]
 }
